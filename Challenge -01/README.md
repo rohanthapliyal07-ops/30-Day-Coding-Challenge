@@ -1,27 +1,27 @@
-📊 Student Marks Calculator
+ Student Marks Calculator
 
-Hey there! 👋
+Hey there! 
 
 Welcome to my Student Marks Calculator project!
 This is a simple C program that takes the marks of a student in 5 subjects and calculates the Total Marks, Average Marks, and Percentage.
 
-This project is part of my C Programming Challenges where I'm practicing the basics of programming step by step. 🚀
+This project is part of my C Programming Challenges where I'm practicing the basics of programming step by step. 
 
-✨ What Does This Program Do?
+ What Does This Program Do?
 
 The program asks you to enter marks for 5 subjects and then calculates:
 
-📝 Total Marks
+ Total Marks
 
-📊 Average Marks
+ Average Marks
 
-🎯 Percentage
+ Percentage
 
 It's a small project, but it's great practice for understanding how calculations and user input work in C.
 
-💻 Built With
+ Built With
 
-C Language ❤️
+C Language 
 
 printf() for displaying output
 
@@ -29,31 +29,7 @@ scanf() for taking user input
 
 Basic arithmetic operations
 
-🚀 How to Run
-1. Clone the Repository
-git clone <your-repository-url>
-
-2. Open the Project Folder
-cd Student-Marks-Calculator
-
-3. Compile the Program
-
-If you have GCC installed, run:
-
-gcc marks.c -o marks
-
-4. Run the Program
-
-Windows:
-
-marks
-
-
-Linux / macOS:
-
-./marks
-
-🧮 Example
+Example
 
 Here's how the program might look when you run it:
 
@@ -67,7 +43,7 @@ Total Marks = 400
 Average Marks = 80.00
 Percentage = 80.00%
 
-📚 What I Learned
+What I Learned
 
 While making this project, I practiced:
 
@@ -87,16 +63,16 @@ Understanding the basic structure of a C program
 
 Calculate the Average, Total Marks, and Percentage of User Input Marks of 5 Subjects of a Student.
 
-This is my Challenge 1 in learning and practicing C programming. 💪
+This is my Challenge 1 in learning and practicing C programming. 
 
-More challenges coming soon! 🚀
+More challenges coming soon! 
 
-👨‍💻 About This Project
+ About This Project
 
 I'm building small projects like this to improve my C programming fundamentals and get more comfortable with writing programs.
 
-Every small project is one more step forward! 🌱
+Every small project is one more step forward! 
 
-⭐ If you like this project, feel free to star the repository!
+ If you like this project, feel free to star the repository!
 
 Thanks for checking it out! 😊
