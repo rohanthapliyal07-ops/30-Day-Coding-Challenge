@@ -1,4 +1,4 @@
-                                                                    TripCalc 🚗⛽
+TripCalc 🚗⛽
 📌 Problem Statement
 
 TripCalc is a simple C programming project that calculates the amount of fuel required and the total fuel cost for a road trip.
