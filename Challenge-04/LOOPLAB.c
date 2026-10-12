@@ -14,7 +14,7 @@ int main() {
     float medium_total = 0.0;
     float large_total = 0.0;
 
-    printf("=== SMARTLOOP: Daily Expense Analyzer ===\n");
+    printf("=== LOOPLAB: Daily Expense Analyzer ===\n");
     printf("Enter expense amounts. Enter 0 to stop.\n");
 
     // Using a simple while loop
