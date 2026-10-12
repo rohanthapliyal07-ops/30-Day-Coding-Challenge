@@ -1,4 +1,4 @@
-# Challenge 04: LOOPLAB - Daily Expense Analyzer
+# Challenge 04: SMARTLOOP - Daily Expense Analyzer
 
 A C program designed to process and analyze daily expenses dynamically using core C programming constructs such as infinite loops, conditional statements, arithmetic operations, and formatted input/output.
 
@@ -6,15 +6,12 @@ A C program designed to process and analyze daily expenses dynamically using cor
 
 ## 1. Problem Statement
 
-Create a C program named **LOOPLAB** to analyze daily expense entries. The program repeatedly reads expense amounts from the user until `0` is entered. For every positive expense, it classifies the amount into a category, updates the respective counts and totals, and prints a final summary report. 
+Create a C program named **SMARTLOOP** to analyze daily expense entries. The program repeatedly reads expense amounts from the user until `0` is entered. For every positive expense, it classifies the amount into a category, updates the respective counts and totals, and prints a final summary report. 
 
 *Constraint Checklist:*
 - [x] Uses loops (`while`)
 - [x] Uses conditional logic (`if`, `else if`, `else`)
 - [x] Uses arithmetic operators (`+`, `/`)
-- [x] No arrays used
-- [x] No custom functions used
-- [x] No strings used
 
 ---
 
@@ -47,27 +44,17 @@ Upon termination via the `0` stop signal, the program outputs:
 
 ---
 
-## 4. Concepts & Language Features Used
 
-This implementation strictly uses beginner-level C concepts:
-
-- **Data Types:** `float` (for decimal expense amounts) and `int` (for counters).
-- **Control Flow:** `while (1)` loop for continuous user prompting.
-- **Loop Control Statements:** `break` to exit on `0` and `continue` to skip negative values.
-- **I/O Functions:** `printf()` for console feedback and `scanf()` for reading user input.
-
----
-
-## 5. How to Compile and Run
+## 4. How to Compile and Run
 
 1. Open your terminal in Linux / Unix (e.g., Kali Linux).
 2. Navigate to your source file folder:
    ```bash
-   cd Rohan
+   cd 
    ```
-3. Compile the code using `cc` or `gcc`:
+3. Compile the code using `gcc`:
    ```bash
-   cc Smartloop.c -o SMARTLOOP
+   gcc Smartloop.c -o SMARTLOOP
    ```
 4. Execute the compiled program:
    ```bash
@@ -76,10 +63,10 @@ This implementation strictly uses beginner-level C concepts:
 
 ---
 
-## 6. Sample Input/Output Walkthrough
+## 5. Sample Input/Output Walkthrough
 
 ```text
-=== LOOPLAB: Daily Expense Analyzer ===
+=== SMARTLOOP: Daily Expense Analyzer ===
 Enter expense amounts. Enter 0 to stop.
 
 Enter expense amount: 50
