@@ -1,4 +1,4 @@
-# Challenge 04: SMARTLOOP - Daily Expense Analyzer
+# Challenge 04: LOOPLAB - Daily Expense Analyzer
 
 A C program designed to process and analyze daily expenses dynamically using core C programming constructs such as infinite loops, conditional statements, arithmetic operations, and formatted input/output.
 
@@ -6,7 +6,7 @@ A C program designed to process and analyze daily expenses dynamically using cor
 
 ## 1. Problem Statement
 
-Create a C program named **SMARTLOOP** to analyze daily expense entries. The program repeatedly reads expense amounts from the user until `0` is entered. For every positive expense, it classifies the amount into a category, updates the respective counts and totals, and prints a final summary report. 
+Create a C program named **LOOPLAB** to analyze daily expense entries. The program repeatedly reads expense amounts from the user until `0` is entered. For every positive expense, it classifies the amount into a category, updates the respective counts and totals, and prints a final summary report. 
 
 *Constraint Checklist:*
 - [x] Uses loops (`while`)
@@ -66,7 +66,7 @@ Upon termination via the `0` stop signal, the program outputs:
 ## 5. Sample Input/Output Walkthrough
 
 ```text
-=== SMARTLOOP: Daily Expense Analyzer ===
+=== LOOPLAB: Daily Expense Analyzer ===
 Enter expense amounts. Enter 0 to stop.
 
 Enter expense amount: 50
