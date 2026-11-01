@@ -36,7 +36,7 @@ void input()
 void display()
 {
     int i, j;
-    printf("\nRisk Grid:\n");
+    printf("Risk Grid:\n");
 
     for (i = 0; i < n; i++)
     {
@@ -51,7 +51,7 @@ void rows()
 {
     int i, j, sum, max = 0;
 
-    printf("\nROW ANALYSIS\n");
+    printf("ROW ANALYSIS\n");
 
     for (i = 0; i < n; i++)
     {
@@ -84,7 +84,7 @@ void columns()
 {
     int i, j, sum, max = 0;
 
-    printf("\nCOLUMN ANALYSIS\n");
+    printf("COLUMN ANALYSIS\n");
 
     for (j = 0; j < n; j++)
     {
@@ -172,7 +172,7 @@ void boundary()
 {
     int i, j, sum = 0;
 
-    printf("\nBOUNDARY ANALYSIS\n");
+    printf("BOUNDARY ANALYSIS\n");
 
     for (i = 0; i < n; i++)
     {
