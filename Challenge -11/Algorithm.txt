@@ -1,0 +1,15 @@
+**Algorithm – WATERWISE**
+
+1. Start the program.
+2. Declare a 5×7 array to store water usage and an array to store the daily targets of five zones.
+3. Input the daily target for each zone and validate it between 100 and 50000.
+4. Input water usage for seven days for every zone and validate each reading between 0 and 50000.
+5. Display the water usage table.
+6. For each zone, calculate weekly total, average, peak usage and peak day using pointer traversal.
+7. Count over-limit days and calculate excess litres.
+8. Detect spike days where usage increases by more than 40% from the previous day.
+9. Count unique alert days, considering a day only once even if both conditions occur.
+10. Generate the audit report and rank zones according to total excess.
+11. Display conservation recommendations based on the report.
+12. Repeat the menu until the user chooses Exit.
+13. Stop.
